@@ -1,0 +1,9 @@
+Microsoft Genomics ofrece una implementación en la nube de Burrows-Wheeler Aligner (BWA)
+y Genome Analysis Toolkit (GATK) para análisis secundario. El servicio posee certificación ISO,
+cumple las regulaciones HIPAA y ofrece la capacidad de predicción de precio para sus
+necesidades de secuenciación genómica.
+
+En lugar de tener que administrar sus propios centros de datos, aproveche la escala y la
+experiencia de Microsoft para ejecutar cargas de trabajo a escala de exabytes. Nuestra
+implementación en la nube de BWA-GATK es altamente compatible con la canalización de
+procedimientos recomendados del Instituto Broad.

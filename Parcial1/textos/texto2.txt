@@ -1,0 +1,7 @@
+Integre el código de canalización existente con facilidad mediante el uso de una API basada en
+REST y un cliente Python o aproveche las ventajas de un ecosistema en crecimiento de asociados
+de soluciones que ya han realizado la integración con Microsoft Genomics.
+
+Microsoft Genomics le ofrece un contrato de nivel de servicio (SLA) disponible al 99,99 % para
+que pueda recibir solicitudes de flujo de trabajo. Obtenga más información sobre el SLA de
+Microsoft Genomics.

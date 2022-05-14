@@ -1,0 +1,17 @@
+Trabaja con sus herramientas actuales
+Integre el código de canalización existente con facilidad mediante el uso de una API basada en
+REST y un cliente Python o aproveche las ventajas de un ecosistema en crecimiento de asociados
+de soluciones que ya han realizado la integración con Microsoft Genomics.
+
+Mantenga su negocio en funcionamiento
+Microsoft Genomics le ofrece un contrato de nivel de servicio (SLA) disponible al 99,99 % para
+que pueda recibir solicitudes de flujo de trabajo. Obtenga más información sobre el SLA de
+Microsoft Genomics.
+
+Protección de los datos
+El servicio de Microsoft Genomics posee los certificados ISO 27001, ISO 27018 e ISO 9001 y
+cumple las regulaciones HIPAA.
+
+Icahn School of medicine at mount Sinai
+Los investigadores de esta escuela están aprovechando la tecnología digital para acercarse a los avances
+en la evaluación y el tratamiento del cáncer y otras enfermedades.

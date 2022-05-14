@@ -1,0 +1,10 @@
+archivo = open("texto.txt")
+print(archivo.read())
+archivo.close()
+archivo2 = open("texto2.txt", "w")
+cadena = "hdspm ME MUERO DE SUEÑO"
+archivo2.write(cadena)
+archivo2.close()
+archivo2 = open("texto2.txt")
+print(archivo2.read())
+archivo2.close()

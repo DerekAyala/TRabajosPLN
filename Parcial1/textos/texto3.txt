@@ -1,0 +1,6 @@
+BWA es un paquete de software que puede alinear secuencias con pequeñas diferencias a un
+genoma de referencia más grande.
+
+Un software desarrollado para el análisis de datos de resecuenciación de segunda generación,
+que contiene muchas herramientas útiles, Se centra principalmente en encontrar mutaciones,
+genotipar y otorgar gran importancia al aseguramiento de la calidad de los datos.
